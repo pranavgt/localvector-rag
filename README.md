@@ -5,7 +5,7 @@
 **LocalVector RAG** is a privacy-first, on-prem Retrieval-Augmented Generation (RAG) system.  
 It combines a local vector store with a lightweight language model to answer questions using your private documents — without sending any data to the cloud.
 
-This project demonstrates how to:
+This is my project demonstrates how to:
 - Embed and index text chunks locally using FAISS with HNSW for fast approximate search.
 - Retrieve relevant passages based on vector similarity.
 - Feed retrieved passages to a local or API-based LLM to generate grounded answers.
