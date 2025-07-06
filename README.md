@@ -1,4 +1,4 @@
-# LocalVector  RAG Test Push 1
+# LocalVector  RAG Test
 
 ## What
 
