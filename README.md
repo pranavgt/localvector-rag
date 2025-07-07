@@ -1,4 +1,4 @@
-# LocalVector  RAG Test
+# LocalVector-RAG
 
 ## What
 
