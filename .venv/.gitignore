@@ -1,14 +1,20 @@
-# created by virtualenv automatically
-# PyCharm project files
-.idea/
-*.iml
-
-# Python cache files
+# Python
 __pycache__/
 *.pyc
 
-# Virtual environments
-venv/
+# VSCode or PyCharm project files
+.vscode/
+.idea/
+
+# Data
+data/index/   # ignore saved vector index files
+*.index
+
+# Environment
 .env
 
-*.index
+# OS junk
+.DS_Store
+
+# Other build files
+*.log
