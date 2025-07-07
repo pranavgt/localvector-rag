@@ -1,4 +1,4 @@
-localvector-rag/
+l<pre> ``` localvector-rag/
 │
 ├── data/
 │   ├── docs/               # Raw documents to embed
@@ -10,7 +10,7 @@ localvector-rag/
 │
 ├── rag/
 │   ├── __init__.py
-│   ├── loader.py           # Load & chunk documents
+│   ├── loader.py           # Load & chunk documents<pre> 
 │   ├── embedder.py         # Embed chunks
 │   ├── indexer.py          # Build & save index
 │   ├── retriever.py        # Retrieve relevant chunks
@@ -24,4 +24,4 @@ localvector-rag/
 │
 ├── .gitignore              # Ignore index, cache, etc.
 │
-└── Dockerfile (optional)   # If you want it containerized
+└── Dockerfile (optional)   # If you want it containerized``` <pre>  
