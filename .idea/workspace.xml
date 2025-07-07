@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pranavgt &lt;pranavguhathakurta@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pranavgt&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pranavgt/localvector-rag.git&quot;,
+    &quot;accountId&quot;: &quot;2a64982c-3a91-4193-9c20-3aa2afb7aec1&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zW8KbhK1ARvsg1Hek74Rc23yV7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  }
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-598b0484d0b5-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d57d7af-03d9-4873-89fb-142d2404e8c8" name="Changes" comment="" />
+      <created>1751835406188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751835406188</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st README">
+      <option name="closed" value="true" />
+      <created>1751836325097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751836325097</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit: Add LocalVector RAG base code and README">
+      <option name="closed" value="true" />
+      <created>1751839738684</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751839738684</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit: Add LocalVector RAG base code and README">
+      <option name="closed" value="true" />
+      <created>1751840240521</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751840240521</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751840742922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751840742922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751840948394</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751840948394</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751840964552</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751840964552</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751841014081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751841014081</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751841210285</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751841210285</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751841331620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751841331620</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751841984602</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1751841984602</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751870902440</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1751870902440</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751871535936</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751871535936</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751871844339</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1751871844339</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751871975346</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1751871975347</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env">
+      <option name="closed" value="true" />
+      <created>1751872078592</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1751872078592</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st README" />
+    <MESSAGE value="Initial commit: Add LocalVector RAG base code and README" />
+    <MESSAGE value="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: Add LocalVector RAG base code and README# PyCharm project files&#10;.idea/&#10;*.iml&#10;&#10;# Python cache files&#10;__pycache__/&#10;*.pyc&#10;&#10;# Virtual environments&#10;venv/&#10;.env" />
+  </component>
+</project>
