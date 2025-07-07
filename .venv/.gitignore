@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+# PyCharm project files
+.idea/
+*.iml
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+*.index
